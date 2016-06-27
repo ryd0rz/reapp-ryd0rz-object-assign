@@ -1,5 +1,5 @@
 {
-  "name": "reapp-object-assign",
+  "name": "reapp-ryd0rz-object-assign",
   "version": "1.0.0",
   "description": "shims object assign into your app",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/reapp/reapp-object-assign"
+    "url": "github.com/ryd0rz/reapp-ryd0rz-object-assign"
   },
   "author": "",
   "license": "MIT",
